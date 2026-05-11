@@ -1,0 +1,21 @@
+data_type: chunked
+input_file: K2V-example/data/example_corpus.json
+tokenizer: Qwen2.5-72B-Instruct
+quiz_samples: 2
+traverse_strategy:
+  qa_form: aggregated
+  bidirectional: true
+  edge_sampling: random   
+  expand_method: max_width
+  isolated_node_strategy: ignore
+  max_depth: 1
+  max_extra_edges: 2
+  max_tokens: 256
+web_search: false
+is_fill_blank: true
+synthesizer_model_generate_kwargs:
+  temperature: 0.7
+  top_p: 0.8
+  max_tokens: 26384
+  repetition_penalty: 1.05
+  top_k: 20

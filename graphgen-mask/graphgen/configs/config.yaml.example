@@ -1,0 +1,15 @@
+data_type: raw
+input_file: resources/examples/raw_demo.jsonl
+tokenizer: cl100k_base
+quiz_samples: 2
+traverse_strategy:
+  qa_form: atomic
+  bidirectional: true
+  edge_sampling: max_loss
+  expand_method: max_tokens
+  isolated_node_strategy: add
+  max_depth: 2
+  max_extra_edges: 5
+  max_tokens: 256
+  loss_strategy: only_edge
+web_search: false

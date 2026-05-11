@@ -1,0 +1,1 @@
+python3 -m graphgen.generate --config_file K2V-example/config.yaml --output_dir output/K2V
