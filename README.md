@@ -143,3 +143,15 @@ See [`verl/README.md`](verl/README.md) for details
 
 ## 📜 License
 This project is licensed under the [Apache License 2.0](LICENSE).
+
+## 📖 Citation
+If you find this work useful, please cite:
+```bibtex
+@inproceedings{yuan2026knowledgetoverification,
+   title = {Knowledge-to-Verification: Exploring {RLVR} for {LLM}s in Knowledge-Intensive Domains},
+   author = {Yuan, Zhonghang and Wang, Zhefan and Hu, Fang and Chen, Zihong and Li, Jinzhe and Li, Gang and Ying, Jie and Kong, Huanjun and Zhang, Songyang and Dong, Nanqing},
+   booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics},
+   year = {2026},
+   url = {https://openreview.net/forum?id=duS4h4GK3u}
+}
+```
