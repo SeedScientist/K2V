@@ -9,7 +9,7 @@
 - 🚀 [Getting started](#-getting-started)
 - 🍀 [Acknowledgements](#-acknowledgements)
 - 📜 [License](#-license)
-- 📖 [License](#-citation)
+- 📖 [Citation](#-citation)
 
 </details>
 
