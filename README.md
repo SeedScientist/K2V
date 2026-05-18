@@ -139,7 +139,7 @@ bash K2V-example/config.sh
 See [`verl/README.md`](verl/README.md) for details
 
 ## 🍀 Acknowledgements
-- [Graphgen](https://github.com/InternScience/GraphGen): An efficient framework for synthesizing SFT data
+- [GraphGen](https://github.com/open-sciencelab/GraphGen): An efficient framework for synthesizing SFT data
 - [verl](https://github.com/verl-project/verl): A Flexible and Efficient RL Post-Training Framework
 
 ## 📜 License
